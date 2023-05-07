@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://instagram.com/_raihanmd" target="__blank">
