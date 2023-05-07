@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N"/>
 </div>
 <div id="badges" align="center">
   <a href="https://instagram.com/_raihanmd" target="__blank">
@@ -50,7 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
   <img src="https://github-readme-stats.vercel.app/api?username=4SEP30&theme=dracula"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4SEP30&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4SEP30&layout=compact&theme=radical" height="150" alt="languages graph"  />
  
  
  ---
