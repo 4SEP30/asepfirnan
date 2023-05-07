@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="40" height="40"/>
 </div>
 <div id="badges" align="center">
   <a href="https://instagram.com/_raihanmd" target="__blank">
@@ -49,7 +49,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-  <img src="https://github-readme-stats.vercel.app/api?username=4SEP30&theme=dracula"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=4SEP30&theme=radical"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4SEP30&layout=compact&theme=radical" height="150" alt="languages graph"  />
  
  
